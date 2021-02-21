@@ -1,21 +1,21 @@
 # Organizations
 
- - ** Vice Chairman Of The Board **  
+ - **Vice Chairman Of The Board**  
   
-    - **_ Nov 2020 - Present _** [Karabuk University Green Crescent Club](https://www.instagram.com/p/CI_FDgRAf7q/)
+    - **_Nov 2020 - Present_** [Karabuk University Green Crescent Club](https://www.instagram.com/p/CI_FDgRAf7q/)
     
- - ** Volunteer **
+ - **Volunteer**
  
-    - **_ Feb 2020 - Present _** [Green Crescent](https://www.yesilay.org.tr/en/) 
+    - **_Feb 2020 - Present_** [Green Crescent](https://www.yesilay.org.tr/en/) 
     
- - ** Volunteer **
+ - **Volunteer**
  
-    - **_ Nov 2019 - Present _** [Tema Foundation](https://www.tema.org.tr/)
+    - **_Nov 2019 - Present_** [Tema Foundation](https://www.tema.org.tr/)
     
 
- - ** Membership **
+ - **Membership**
  
-    - **_  2012 - 2014 _** Nature and Future Club Membership on Doga Schools        
+    - **_ 2012 - 2014_** Nature and Future Club Membership on Doga Schools        
     
 <hr>
 
