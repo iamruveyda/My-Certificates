@@ -15,7 +15,7 @@
 
  - **Membership**
  
-    - **_ 2012 - 2014_** Nature and Future Club Membership on Doga Schools        
+    - **_2012 - 2014_** Nature and Future Club Membership on Doga Schools        
     
 <hr>
 
