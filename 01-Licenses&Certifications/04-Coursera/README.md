@@ -5,6 +5,10 @@
 
 ### Credential URL
 
+     https://www.coursera.org/account/accomplishments/verify/CredentialID
+     
+     https://www.coursera.org/account/accomplishments/specialization/CredentialID
+
      https://www.coursera.org/account/accomplishments/certificate/CredentialID
 	 
 ### Github Repository
