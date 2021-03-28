@@ -26,6 +26,7 @@
      
 | ID | Date     | Name                                                                   | Position held                      | Associated with                                      | Certificate of                 | Lang. |
 |----|----------|------------------------------------------------------------------------|------------------------------------|------------------------------------------------------|--------------------------------|-------|
+| 20 | Mar 2021 | Global Management                                                      | Participant                        | Muhendislikte Inovasyon                              | participation                  | TR    |
 | 19 | Mar 2021 | Software in the Digital World                                          | Participant                        | Muhendislikte Inovasyon                              | participation                  | TR    |
 | 18 | Mar 2021 | Toplum 5.0                                                             | Participant                        | Muhendislikte Inovasyon                              | participation                  | TR    |
 | 17 | Mar 2021 | 2nd GOZ Summit                                                         | Participant                        | Yalova University Industrial Engineering Club        | participation                  | TR    |
