@@ -9,6 +9,7 @@
 
 
 
-| #    | Issue Date        | Course                                   | Language | Repository ID  |
-|------|-------------------|------------------------------------------|----------|----------------|
-| 1    | 05 September 2020 | Introduction to Information Technologies | Turkish  |                |
+| # | Issue Date        | Course                                   | Language | Credential ID  | Repository ID |
+|---|-------------------|------------------------------------------|----------|----------------|---------------|
+| 1 | 05 September 2020 | Introduction to Information Technologies | Turkish  | e9MZXZPe       |               |
+
